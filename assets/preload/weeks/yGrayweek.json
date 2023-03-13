@@ -1,0 +1,49 @@
+{
+	"storyName": "",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		255,
+		165,
+		0
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"delusion",
+			"gray",
+			[
+				60,
+				60,
+				80
+			]
+		],
+		[
+			"blackout",
+			"gray",
+			[
+				60,
+				60,
+				80
+			]
+		],
+		[
+			"neurotic",
+			"gray",
+			[
+				60,
+				60,
+				80
+			]
+		]
+	],
+	"weekName": ""
+}

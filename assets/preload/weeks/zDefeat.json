@@ -1,0 +1,40 @@
+{
+	"storyName": "",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		255,
+		165,
+		0
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"defeat",
+			"black",
+			[
+				35,
+				0,
+				60
+			]
+		],
+		[
+			"defeat-vocal2",
+			"black",
+			[
+				35,
+				0,
+				60
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": ""
+}

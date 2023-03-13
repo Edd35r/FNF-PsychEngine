@@ -1,0 +1,49 @@
+{
+	"storyName": "",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		255,
+		165,
+		0
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"heartbeat",
+			"pink",
+			[
+				255,
+				80,
+				200
+			]
+		],
+		[
+			"pinkwave",
+			"pink",
+			[
+				255,
+				80,
+				200
+			]
+		],
+		[
+			"pretender",
+			"pink",
+			[
+				255,
+				80,
+				200
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": ""
+}
