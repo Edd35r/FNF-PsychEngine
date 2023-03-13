@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="deadflowerguy.png">
+<SubTexture name="flowerguy dead 0000" x="0" y="620" width="281" height="147" frameX="0" frameY="-11" frameWidth="283" frameHeight="159" />
+<SubTexture name="flowerguy dead 0001" x="281" y="620" width="283" height="147" frameX="0" frameY="-11" frameWidth="283" frameHeight="159" />
+<SubTexture name="flowerguy dead 0002" x="251" y="468" width="271" height="151" frameX="-2" frameY="-7" frameWidth="283" frameHeight="159" />
+<SubTexture name="flowerguy dead 0003" x="766" y="0" width="269" height="151" frameX="-2" frameY="-7" frameWidth="283" frameHeight="159" />
+<SubTexture name="flowerguy dead 0004" x="0" y="159" width="266" height="154" frameX="-3" frameY="-4" frameWidth="283" frameHeight="159" />
+<SubTexture name="flowerguy dead 0005" x="0" y="313" width="268" height="154" frameX="-3" frameY="-4" frameWidth="283" frameHeight="159" />
+<SubTexture name="flowerguy dead 0006" x="0" y="0" width="259" height="159" frameX="-4" frameY="-1" frameWidth="283" frameHeight="159" />
+<SubTexture name="flowerguy dead 0007" x="259" y="0" width="254" height="159" frameX="-4" frameY="-1" frameWidth="283" frameHeight="159" />
+<SubTexture name="flowerguy dead 0008" x="513" y="0" width="253" height="152" frameX="-4" frameY="-7" frameWidth="283" frameHeight="159" />
+<SubTexture name="flowerguy dead 0009" x="513" y="152" width="251" height="152" frameX="-4" frameY="-7" frameWidth="283" frameHeight="159" />
+<SubTexture name="flowerguy dead 0010" x="513" y="304" width="253" height="152" frameX="-4" frameY="-7" frameWidth="283" frameHeight="159" />
+<SubTexture name="flowerguy dead 0011" x="0" y="468" width="251" height="152" frameX="-4" frameY="-7" frameWidth="283" frameHeight="159" />
+<SubTexture name="flowerguy dead 0012" x="513" y="304" width="253" height="152" frameX="-4" frameY="-7" frameWidth="283" frameHeight="159" />
+<SubTexture name="flowerguy dead 0013" x="0" y="468" width="251" height="152" frameX="-4" frameY="-7" frameWidth="283" frameHeight="159" />
+</TextureAtlas>

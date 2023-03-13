@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flowergay.png">
+<SubTexture name="flowerguy 0000" x="0" y="399" width="385" height="383" frameX="-16" frameY="-16" frameWidth="407" frameHeight="399" />
+<SubTexture name="flowerguy 0001" x="0" y="399" width="385" height="383" frameX="-16" frameY="-16" frameWidth="407" frameHeight="399" />
+<SubTexture name="flowerguy 0002" x="385" y="399" width="390" height="378" frameX="-18" frameY="-21" frameWidth="407" frameHeight="399" />
+<SubTexture name="flowerguy 0003" x="385" y="399" width="390" height="378" frameX="-18" frameY="-21" frameWidth="407" frameHeight="399" />
+<SubTexture name="flowerguy 0004" x="723" y="0" width="387" height="388" frameX="-11" frameY="-11" frameWidth="407" frameHeight="399" />
+<SubTexture name="flowerguy 0005" x="723" y="0" width="387" height="388" frameX="-11" frameY="-11" frameWidth="407" frameHeight="399" />
+<SubTexture name="flowerguy 0006" x="0" y="0" width="381" height="399" frameX="-5" frameY="0" frameWidth="407" frameHeight="399" />
+<SubTexture name="flowerguy 0007" x="0" y="0" width="381" height="399" frameX="-5" frameY="0" frameWidth="407" frameHeight="399" />
+<SubTexture name="flowerguy 0008" x="381" y="0" width="341" height="392" frameX="0" frameY="-7" frameWidth="407" frameHeight="399" />
+<SubTexture name="flowerguy 0009" x="381" y="0" width="341" height="392" frameX="0" frameY="-7" frameWidth="407" frameHeight="399" />
+<SubTexture name="flowerguy 0010" x="381" y="0" width="341" height="392" frameX="0" frameY="-7" frameWidth="407" frameHeight="399" />
+<SubTexture name="flowerguy 0011" x="381" y="0" width="341" height="392" frameX="0" frameY="-7" frameWidth="407" frameHeight="399" />
+<SubTexture name="flowerguy 0012" x="381" y="0" width="341" height="392" frameX="0" frameY="-7" frameWidth="407" frameHeight="399" />
+<SubTexture name="flowerguy 0013" x="381" y="0" width="341" height="392" frameX="0" frameY="-7" frameWidth="407" frameHeight="399" />
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="righthm.png">
+<SubTexture name="righthandman 0000" x="0" y="370" width="241" height="366" frameX="0" frameY="-3" frameWidth="264" frameHeight="370" />
+<SubTexture name="righthandman 0001" x="0" y="370" width="241" height="366" frameX="0" frameY="-3" frameWidth="264" frameHeight="370" />
+<SubTexture name="righthandman 0002" x="246" y="0" width="240" height="369" frameX="-3" frameY="-1" frameWidth="264" frameHeight="370" />
+<SubTexture name="righthandman 0003" x="246" y="0" width="240" height="369" frameX="-3" frameY="-1" frameWidth="264" frameHeight="370" />
+<SubTexture name="righthandman 0004" x="0" y="0" width="246" height="370" frameX="-8" frameY="0" frameWidth="264" frameHeight="370" />
+<SubTexture name="righthandman 0005" x="0" y="0" width="246" height="370" frameX="-8" frameY="0" frameWidth="264" frameHeight="370" />
+<SubTexture name="righthandman 0006" x="486" y="0" width="253" height="368" frameX="-11" frameY="-2" frameWidth="264" frameHeight="370" />
+<SubTexture name="righthandman 0007" x="486" y="0" width="253" height="368" frameX="-11" frameY="-2" frameWidth="264" frameHeight="370" />
+<SubTexture name="righthandman 0008" x="486" y="0" width="253" height="368" frameX="-11" frameY="-2" frameWidth="264" frameHeight="370" />
+<SubTexture name="righthandman 0009" x="486" y="0" width="253" height="368" frameX="-11" frameY="-2" frameWidth="264" frameHeight="370" />
+<SubTexture name="righthandman 0010" x="486" y="0" width="253" height="368" frameX="-11" frameY="-2" frameWidth="264" frameHeight="370" />
+<SubTexture name="righthandman 0011" x="486" y="0" width="253" height="368" frameX="-11" frameY="-2" frameWidth="264" frameHeight="370" />
+<SubTexture name="righthandman 0012" x="486" y="0" width="253" height="368" frameX="-11" frameY="-2" frameWidth="264" frameHeight="370" />
+<SubTexture name="righthandman 0013" x="486" y="0" width="253" height="368" frameX="-11" frameY="-2" frameWidth="264" frameHeight="370" />
+</TextureAtlas>
