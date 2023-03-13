@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="littleheart.png">
+<SubTexture name="littleheart0000" x="0" y="0" width="54" height="53" frameX="-19" frameY="-16" frameWidth="95" frameHeight="87" />
+<SubTexture name="littleheart0001" x="0" y="0" width="54" height="53" frameX="-19" frameY="-16" frameWidth="95" frameHeight="87" />
+<SubTexture name="littleheart0002" x="0" y="0" width="54" height="53" frameX="-19" frameY="-16" frameWidth="95" frameHeight="87" />
+<SubTexture name="littleheart0003" x="54" y="0" width="54" height="53" frameX="-19" frameY="-16" frameWidth="95" frameHeight="87" />
+<SubTexture name="littleheart0004" x="54" y="0" width="54" height="53" frameX="-19" frameY="-16" frameWidth="95" frameHeight="87" />
+<SubTexture name="littleheart0005" x="54" y="0" width="54" height="53" frameX="-19" frameY="-16" frameWidth="95" frameHeight="87" />
+<SubTexture name="littleheart0006" x="0" y="53" width="53" height="51" frameX="-19" frameY="-18" frameWidth="95" frameHeight="87" />
+<SubTexture name="littleheart0007" x="0" y="53" width="53" height="51" frameX="-19" frameY="-18" frameWidth="95" frameHeight="87" />
+<SubTexture name="littleheart0008" x="0" y="53" width="53" height="51" frameX="-19" frameY="-18" frameWidth="95" frameHeight="87" />
+</TextureAtlas>

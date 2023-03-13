@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="black-watching.png">
+<SubTexture name="daddy 0000" x="559" y="443" width="285" height="440" frameX="0" frameY="-3" frameWidth="286" frameHeight="443" />
+<SubTexture name="daddy 0001" x="838" y="0" width="280" height="442" frameX="-2" frameY="0" frameWidth="286" frameHeight="443" />
+<SubTexture name="daddy 0002" x="0" y="443" width="280" height="442" frameX="-2" frameY="0" frameWidth="286" frameHeight="443" />
+<SubTexture name="daddy 0003" x="280" y="443" width="279" height="442" frameX="-1" frameY="-1" frameWidth="286" frameHeight="443" />
+<SubTexture name="daddy 0004" x="280" y="443" width="279" height="442" frameX="-1" frameY="-1" frameWidth="286" frameHeight="443" />
+<SubTexture name="daddy 0005" x="0" y="0" width="279" height="443" frameX="0" frameY="0" frameWidth="286" frameHeight="443" />
+<SubTexture name="daddy 0006" x="0" y="0" width="279" height="443" frameX="0" frameY="0" frameWidth="286" frameHeight="443" />
+<SubTexture name="daddy 0007" x="0" y="0" width="279" height="443" frameX="0" frameY="0" frameWidth="286" frameHeight="443" />
+<SubTexture name="daddy 0008" x="279" y="0" width="279" height="443" frameX="0" frameY="0" frameWidth="286" frameHeight="443" />
+<SubTexture name="daddy 0009" x="559" y="0" width="279" height="443" frameX="0" frameY="0" frameWidth="286" frameHeight="443" />
+</TextureAtlas>
